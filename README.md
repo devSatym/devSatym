@@ -7,7 +7,8 @@ observability, and software supply chain security. My backend engineering
 background helps me connect application behavior with infrastructure and
 operational troubleshooting.
 
-**CKA | Certified Kubernetes Administrator · AZ-104 | Microsoft Certified: Azure Administrator Associate**
+**·CKA | Certified Kubernetes Administrator 
+· AZ-104 | Microsoft Certified: Azure Administrator Associate**
 
 [LinkedIn](https://www.linkedin.com/in/swe1-satyam/) ·
 [Azure AKS project](https://github.com/devSatym/azure-aks-gitops-observability) ·
